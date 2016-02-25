@@ -6,7 +6,22 @@
     },
     {
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
+        "author": "Larry O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1456437124065,
+        "author": "Bob Jones",
+        "text": "REAAAACCTTTT!!!!"
+    },
+    {
+        "id": 1456437360313,
+        "author": "Yogi Bear",
+        "text": "Hey Booboo!"
+    },
+    {
+        "id": 1456437525899,
+        "author": "Submit This!",
+        "text": "Whatever!"
     }
 ]
